@@ -11,7 +11,12 @@ In order to perform this analysis, you must turn each label into an integer. The
 
 ## Mapping text labels with numerical code
 
+![Image](https://github.com/user-attachments/assets/a7a05237-8fee-478f-9e28-63f4c49e8178)
+<div></div>
+
 ## Explore the relationship between device type and the number of drives  
+![Image](https://github.com/user-attachments/assets/08a5c646-c4da-4881-ab0c-06ec161fbc78)
+<div></div>
 
 Based on the averages shown, it appears that drivers who use an iPhone device to interact with the application have a higher number of drives on average. However, this difference might arise from random sampling, rather than being a true difference in the number of drives. To assess whether the difference is statistically significant, you can conduct a hypothesis test.  
 
@@ -32,5 +37,8 @@ The significant level is set as 5%
 
 ## Two-sample hypothesis test
 
-The p-value (0.14) is more than siginificant value 5%, hence fail to reject the null hupothesis.  
-There is <strong>not</strong> a statistically significance difference between the mean no. of drives btw Android users & iPhone users.
+![Image](https://github.com/user-attachments/assets/836ca1cb-5ac2-40b6-8129-03f064c931b6)
+<div></div>
+
+The p-value (0.14) is more than siginificant value 5%, hence fail to reject the null hypothesis.  
+In conclusion, there is <strong>not</strong> a statistically significance difference between the mean no. of drives btw Android users & iPhone users.
