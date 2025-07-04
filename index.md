@@ -2,7 +2,7 @@
 title: 
 ---
 # Hypothesis-testing  
-In this activity, you will explore the data provided and conduct a hypothesis test.  
+In this activity, you will explore the data provided and conduct a [hypothesis test](https://github.com/cheeweeng/Hypothesis-testing).  
 
 > * The purpose of this project is to demostrate knowledge of how to conduct a two-sample hypothesis test.  
 
@@ -46,4 +46,4 @@ The significant level is set as 5%
 The p-value (0.14) is more than siginificant value 5%, hence fail to reject the null hypothesis.  
 In conclusion, there is <strong>not</strong> a statistically significance difference between the mean no. of drives btw Android users & iPhone users.  
 
-Back to [Projects main page](https://cheeweeng.github.io/)
+Back to [Projects portfolioe](https://cheeweeng.github.io/)
